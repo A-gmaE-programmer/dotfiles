@@ -1,0 +1,125 @@
+ESC
+close this app
+
+=
+SUPER KEY (Windows Key)
+(SUPER KEY)
+ S
+Push window to hidden window stack
+(stash push)
+ SHIFT P
+Pull window from hidden window stack
+(stash pull)
+ enter
+Terminal
+(qterminal)
+ or  D
+App Launcher
+(rofi)
+ T
+Open File Manager
+(Thunar)
+ Q
+close active window
+(not kill)
+ Shift Q 
+closes a specified window
+(window)
+ Alt V
+Clipboard Manager
+(cliphist)
+ SHIFT R
+Resize Window using Mouse
+(resizewindow)
+ SHIFT D
+Move Window using Mouse
+(movewindow)
+ W
+Choose wallpaper
+(Wallpaper Menu)
+CTRL ALT W
+Random wallpaper
+(via swww)
+ B
+Hide/UnHide Waybar
+waybar
+ CTRL B
+Choose waybar styles
+(waybar styles)
+ ALT B
+Choose waybar layout
+(waybar layout)
+ ALT R
+Reload Waybar swaync Rofi
+CHECK NOTIFICATION FIRST!!!
+ SHIFT N
+Launch Notification Panel
+swaync Notification Center
+ Print
+screenshot
+(grim)
+ Shift Print
+screenshot region
+(grim + slurp)
+ Shift S
+screenshot region
+(swappy)
+ALT Print
+Screenshot active window
+active window only
+CTRL ALT P
+power-menu
+(wlogout)
+CTRL ALT L
+screen lock
+(swaylock)
+CTRL ALT Del
+Hyprland Exit
+(SAVE YOUR WORK!!!)
+ F
+Fullscreen
+Toggles to full screen
+ ALT L
+Toggle Dwindle | Master Layout
+Hyprland Layout
+ Shift F
+Toggle float
+single window
+ ALT F
+Toggle all windows to float
+all windows
+ Shift B
+Toggle Blur
+normal or less blur
+ SHIFT G
+Gamemode! All animations OFF or ON
+toggle
+ P
+Open Command Palette
+
+ H
+Launch this app
+
+ E
+View or EDIT Keybinds, Settings, Monitor
+
+
+
+
+Hyprland Specific Tips
+
+
+ O
+Add master window
+
+ I
+Remove master window
+
+ Shift [hjkl]
+Move active window to edge of screen
+
+ Shift [arrow key]
+Move window by 50 px
+
+ ATL [arrow key]
+Resize window by 50 px
