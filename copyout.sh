@@ -15,4 +15,4 @@ do
   cp -r ./$othr ~/
 done
 
-cp ./custom/ ~/.oh-my-zsh/
+cp -r ./custom/ ~/.oh-my-zsh/
